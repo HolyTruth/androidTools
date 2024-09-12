@@ -1,0 +1,2 @@
+# androidTools
+整合了一些安卓测试过程中信息搜集和批量执行的脚本，包括drozer和adb命令的批量执行、apk批量下载、空intent崩溃测试和调试activity记录。
